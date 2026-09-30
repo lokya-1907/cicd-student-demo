@@ -23,4 +23,3 @@ jobs:
 
       - name: Run automated tests
         run: pytest -v
-The current official setup-python documentation uses actions/checkout@v7 and actions/setup-python@v7. GitHub
